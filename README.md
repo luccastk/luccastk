@@ -97,7 +97,7 @@ Dedico-me ao estudo de vulnerabilidades e técnicas de invasão ética em plataf
         align="left"
         height="200"
         style="padding-right: 10px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccastk&theme=tokyonight"
     />
 
 </p>
